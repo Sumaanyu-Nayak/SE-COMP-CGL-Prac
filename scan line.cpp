@@ -50,7 +50,7 @@ void display()
     glColor3f(0, 0, 1);
     glBegin(GL_LINE_LOOP);
     glVertex2f(200, 100);
-    glVertex2f(200, 200);
+    glVertex2f(100, 200);
     glVertex2f(200, 300);
     glVertex2f(300, 200);
     glEnd();
